@@ -2,7 +2,7 @@
 
 ## A quick overview of the tool
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EBVuNRgkHVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Coming soon...
 
 ## Steps to set up 
 
@@ -19,7 +19,8 @@
 ## Main features
 - Run the Fault Localization
 - Clear the results from the memory
-- View the list of suspicious elements
+- View the hierarchical list of suspicious elements
+- Tranfsorm statement to method and class coverage
 
 ## How to use
 

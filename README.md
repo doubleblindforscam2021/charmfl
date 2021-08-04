@@ -21,6 +21,9 @@ Coming soon...
 - Clear the results from the memory
 - View the hierarchical list of suspicious elements
 - Tranfsorm statement to method and class coverage
+- Advanced options:
+    - Choose from SBFL metrics
+    - Choose from Tie breaking strategies
 
 ## How to use
 

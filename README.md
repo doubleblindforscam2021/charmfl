@@ -7,6 +7,7 @@ Coming soon...
 ## Steps to set up 
 
  First, download the compressed ZIP (executable binary) from [this link]()
+ Link is coming soon as well
  
  Then: 
 - Drag and drop into your PyCharm IDE

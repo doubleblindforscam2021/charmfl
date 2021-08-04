@@ -26,7 +26,7 @@ Coming soon...
 
 First, make sure your virtual environment is properly set up, and installed all the required packages.
 Whenever that happens, you can click on the Run button below the CharmFL menu
-![charmfl_run](https://user-images.githubusercontent.com/88377897/128152040-180491f2-1f3c-4baf-a1ea-d9c906db3505.png
+![charmfl_run](https://user-images.githubusercontent.com/88377897/128152040-180491f2-1f3c-4baf-a1ea-d9c906db3505.png)
 
 Wait for the process to finish, then check the list of suspicious elements, and start your debugging.
 ![debug](https://user-images.githubusercontent.com/88377897/128152110-05d6ac3b-6aa8-4952-a3b0-c118a70f34cb.png)

@@ -11,7 +11,6 @@
  First, download the compressed ZIP (executable binary) from [this link](https://github.com/doubleblindforscam2021/charmfl/raw/main/charmfl.rar)
  
 
-
  Then: 
 - Drag and drop into your PyCharm IDE
 - **Or** Go to Settings/Plugins
@@ -26,7 +25,7 @@
 - View the hierarchical list of suspicious elements
 - Transform statement to method and class coverage
 - Advanced options:
-    - Choose from SBFL metrics
+    - Choose different SBFL metrics to compare the efficiency
     - Choose from Tie breaking strategies
 
 ## How to use

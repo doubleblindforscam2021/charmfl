@@ -7,9 +7,9 @@
 
 ## Steps to set up 
 
- First, download the compressed ZIP (executable binary) from [this link]()
- Link is coming soon as well
- 
+ First, download the compressed ZIP (executable binary) from [this link](/doubleblindforscam2021/charmfl/raw/main/charmfl.rar)
+
+
  Then: 
 - Drag and drop into your PyCharm IDE
 - **Or** Go to Settings/Plugins
